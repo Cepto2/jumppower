@@ -1,4 +1,3 @@
--- this code was originally made by Soldix, I just added some stuff(auto bhop, and more things)
 repeat task.wait() until game:IsLoaded()
 
 local Players = game:GetService("Players")
